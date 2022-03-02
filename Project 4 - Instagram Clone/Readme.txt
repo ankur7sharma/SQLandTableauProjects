@@ -1,0 +1,2 @@
+A clone database of Instagram is created here from scratch, and then data analysis is done to see some interesting results.
+Once the tables are created using the sql files, then go to the "Data for Tables" folder and download the sql file, and execute it to insert data in the tables created.
