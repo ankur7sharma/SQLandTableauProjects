@@ -1,6 +1,6 @@
 1. Original data sample collected from "Our World In Data" website (https://ourworldindata.org/covid-deaths)
 The data is from the beginning of covid till 17 Feb 2022 :
-[file1](https://drive.google.com/file/d/1Sbr1on15oHEULptQ0ZCXUv6QR5s16GXb/view?usp=sharing)
+https://drive.google.com/file/d/1Sbr1on15oHEULptQ0ZCXUv6QR5s16GXb/view?usp=sharing
 
 
 2. 1st table created from original data "T1-Covid Deaths" :
