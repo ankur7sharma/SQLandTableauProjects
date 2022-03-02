@@ -1,0 +1,4 @@
+LOAD DATA LOCAL INFILE 'D:/Ankur/2020-Finale/Online Courses/Projects for Resume/Data Analyst Portfolio Project 1/T1- Covid Deaths.csv'
+INTO TABLE covid_deaths
+FIELDS TERMINATED BY ','
+IGNORE 1 ROWS;

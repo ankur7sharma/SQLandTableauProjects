@@ -1,0 +1,11 @@
+1. Original data sample collected from "Our World In Data" website (https://ourworldindata.org/covid-deaths)
+The data is from the beginning of covid till 17 Feb 2022 :
+https://drive.google.com/file/d/1Sbr1on15oHEULptQ0ZCXUv6QR5s16GXb/view?usp=sharing
+
+
+2. 1st table created from original data "T1-Covid Deaths" :
+https://drive.google.com/file/d/1aQotddRJvJvFc_P7AMgYEHQNJM0tFnoo/view?usp=sharing
+
+
+3. 2nd table created from original data "T2-Covid Vaccinations" :
+https://drive.google.com/file/d/1Ku9lsPtRoMkTdslP9yRHr8fTWAwBySXi/view?usp=sharing
