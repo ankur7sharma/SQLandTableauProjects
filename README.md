@@ -17,7 +17,7 @@ Here raw data is provided which is imported into MySQL database into the created
 
 # Project 3 - Sales Data Visualization for a Company
 
-Here from the given data set, some data analysis is done on MySQL database, and then a dashboard is prepared on Tableau which gives various insights about the company. The Tableau visualization can be seen [here](https://public.tableau.com/shared/BSG4W5RCT?:display_count=n&:origin=viz_share_link) 
+Here from the given data set, some data analysis is done on MySQL database, and then a dashboard is prepared on Tableau which gives various insights about the company. The Tableau visualization can be seen [here](https://public.tableau.com/views/ProjectonSalesDataofAtliQHardware/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 Check it out in full screen.
 
 
